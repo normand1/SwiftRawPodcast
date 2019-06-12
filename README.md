@@ -14,8 +14,43 @@ You can find show notes for published and upcoming shows on a variety of topics:
     - Swift 5.1 Updates
     - Swift 5.0 Updates
 
+- Swift Language
+    - The Basics
+    - Strings and Characters
+    - Collection Types
+    - Control Flow
+    - Functions
+    - Closures
+    - Enumeration
+    - Structures and Classes
+    - Properties
+    - Methods
+    - Subscripts
+    - Inheritance
+    - Initialization
+    - Deinitialization
+    - Optional Chaining
+    - Error Handling
+    - Type Casting
+    - Nested Types
+    - Extensions
+    - Protocols
+    - Generics
+    - Opaque Types
+    - Automatic Reference Counting
+    - Memory Safety
+    - Access Control
+    - Advanced Operators
+
+
 - Frameworks
     - UIKit
+        - App Life Cycle
+        - Size Classes
+        - Auto Layout
+        - Storyboards
+        - Programattic UI Layout
+        - Frame, Bounds, Content Size
     - AppKit
     - TVUIKit
     - SwiftUI
@@ -80,6 +115,15 @@ You can find show notes for published and upcoming shows on a variety of topics:
     - Integration Tests
     - BDD Tests
     - TDD Tests
+
+- Design Patterns
+    - MVC
+    - MVVM
+    - MVC+VS
+    - MAVB
+    - TEA
+    - Viper
+    - RIBs
 
 
 
