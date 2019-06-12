@@ -8,7 +8,7 @@ You can find show notes for published and upcoming shows on a variety of topics:
 
 (Topics with links to show notes have been recorded or will be recorded soon. Topics with no show notes are still being planned and researched.)
 
-- [Show Introduction](introduction.md)
+- [Show Introduction](Introduction/introduction.md)
 
 - Swift Version
     - Swift 5.1 Updates
