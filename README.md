@@ -122,7 +122,7 @@ You can find show notes for published and upcoming shows on a variety of topics:
     - MVC+VS
     - MAVB
     - TEA
-    - Viper
+    - VIPER
     - RIBs
 
 
