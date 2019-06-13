@@ -58,13 +58,15 @@ current platform's native word size.
 On a 32-bit platform, UInt is the same size as UInt32.
 On a 64-bit platform, UInt is the same size as UInt64.
 
-`A Note from the Docs:
+```
+NOTE
 Use UInt only when you specifically need an unsigned integer type with 
 the same size as the platform’s native word size. If this isn’t the 
 case, Int is preferred, even when the values to be stored are known to be 
 nonnegative. A consistent use of Int for integer values aids code 
 interoperability, avoids the need to convert between different number 
-types, and matches integer type inference.`
+types, and matches integer type inference.
+```
 
 ## Floating-Point Numbers
 
@@ -75,8 +77,9 @@ Floating-point types can represent a much wider range of values than integer typ
 Double represents a 64-bit floating-point number.
 Float represents a 32-bit floating-point number.
 
-`A Note from the Docs:
-Double has a precision of at least 15 decimal digits, whereas the precision of Float can be as little as 6 decimal digits. The appropriate floating-point type to use depends on the nature and range of values you need to work with in your code. In situations where either type would be appropriate, Double is preferred.`
+```
+Double has a precision of at least 15 decimal digits, whereas the precision of Float can be as little as 6 decimal digits. The appropriate floating-point type to use depends on the nature and range of values you need to work with in your code. In situations where either type would be appropriate, Double is preferred.
+```
 
 ## Numeric Literals
 
