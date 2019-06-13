@@ -15,7 +15,7 @@ You can find show notes for published and upcoming shows on a variety of topics:
     - Swift 5.0 Updates
 
 - Swift Language
-    - The Basics
+    - [The Basics](/Swift%20Language/TheBasics.md)
     - Strings and Characters
     - Collection Types
     - Control Flow
