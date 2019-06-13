@@ -16,7 +16,7 @@ You can find show notes for published and upcoming shows on a variety of topics:
 
 - Swift Language
     - [The Basics](/Swift%20Language/TheBasics.md)
-    - [Basic Operators](/Swift%20Language/Basic%20Operators)
+    - [Basic Operators](/Swift%20Language/Basic%20Operators.md)
     - [Strings and Characters](/Swift%20Language/Strings%20and%20Characters.md)
     - Collection Types
     - Control Flow
