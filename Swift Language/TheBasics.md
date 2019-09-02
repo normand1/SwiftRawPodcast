@@ -16,7 +16,7 @@ Conversely, Swift's compiler will alert you when you misuse a type
 by failing your build immediately when an error is found. For example,
 If you try to pass a value of type Double into a function parameter
 that expects an Integer type the compiler will immediately let you 
-know that this is not possible. This type of type checking, though
+know that this is not possible. This is a safety feature of the language. Though
 sometimes frustrating, type checking helps to eliminate misunderstandings
 between the developer writing code and the compiler which is interpreting
 that code for the machine it will be run on.
