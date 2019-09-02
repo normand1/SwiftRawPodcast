@@ -4,7 +4,7 @@
 
 Hi Everyone,
 
-My name is David and you’re listening to the Swift Raw Podcast.
+My name is David Norman and you’re listening to the Swift Raw Podcast.
 I’ll keep this brief because that’s the point of this whole podcast.
 I listen to a lot of software engineering podcasts and there are a lot of great ones out there.
 
