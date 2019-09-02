@@ -125,6 +125,14 @@ You can find show notes for published and upcoming shows on a variety of topics:
     - TEA
     - VIPER
     - RIBs
-
+Mobile Networking
+    - Envoy Mobile
+    - GraphQL
+    - Open API Spec (Swagger)
+    - Protobuff / gRPC
+Reactive Programming
+    - RXSwift / RXCocoa
+    - Reactive Cocoa
+    - Combine
 
 
